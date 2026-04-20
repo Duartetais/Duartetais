@@ -6,12 +6,6 @@
         🎓 <b>Bootcamp Full-Stack @GenerationBrasil</b><br>
         🔐 <b>Backend Developer | Node.js & NestJS </b><br>
       </p>
-      <a href="mailto:duuartetais@gmail.com">
-        <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/duartetais" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </p>
     </td>
@@ -21,7 +15,7 @@
 
   <tr>
     <td align="center">
-      <h2 align="center">🚀 Projetos de Alto Impacto</h2>
+      <h2 align="center">🚀 Projetos </h2>
       <table align="center" width="60%">
         <tr>
           <td align="center">
