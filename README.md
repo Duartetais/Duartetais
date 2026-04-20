@@ -23,9 +23,9 @@
   <tr>
     <td align="center">
       <h2 align="center">🚀 Projetos de Alto Impacto</h2>
-      <table align="center">
+      <table align="center" width="60%">
         <tr>
-          <td align="center" width="50%">
+          <td align="center">
             <h3>📝 Blog Platform API</h3>
             <p>
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -37,7 +37,9 @@
               <a href="https://blog-pessoal-gh04.onrender.com/">🌐 Live</a>
             </p>
           </td>
-          <td align="center" width="50%">
+        </tr>
+        <tr>
+          <td align="center">
             <h3>💊 Farmácia API</h3>
             <p>
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -50,7 +52,7 @@
           </td>
         </tr>
         <tr>
-          <td align="center" width="50%">
+          <td align="center">
             <h3>🎮 Game Store API</h3>
             <p>
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -60,10 +62,6 @@
             <p>
               <a href="https://github.com/Duartetais/Loja-de-Game">📁 Repo</a>
             </p>
-          </td>
-          <td align="center" width="50%">
-            <h3>📈 Estatísticas</h3>
-            <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Duartetais&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
           </td>
         </tr>
       </table>
@@ -100,6 +98,9 @@
     <td align="center">
       <h2 align="center">🌐 Vamos construir algo seguro?</h2>
       <p>Estou aberta a oportunidades para atuar com sistemas escaláveis e desafios técnicos complexos.</p>
+    </td>
+  </tr>
+
   <tr><td></td></tr>
 
   <tr>
