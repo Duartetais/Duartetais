@@ -38,7 +38,7 @@
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
               <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white" />
             </p>
-            <p><b>Foco:</b> Qualidade de Dados. Uso rigoroso de <b>DTOs e ValidationPipes</b> para garantir integridade em fluxos complexos.</p>
+            <p><b>Foco:</b> Qualidade de Dados. Uso de <b>DTOs e ValidationPipes</b> para garantir integridade em fluxos complexos.</p>
             <p>
               <a href="https://github.com/Duartetais/projeto_bloco_02_farmacia">📁 Repo</a>
             </p>
