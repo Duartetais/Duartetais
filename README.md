@@ -1,4 +1,4 @@
-markdown{{count}} linhas<table align="center" border="0" width="100%">
+<table align="center" border="0" width="100%">
   <tr>
     <td align="center">
       <h1 align="center">Oi! Eu sou a Tais 👋</h1>
