@@ -4,7 +4,7 @@
       <h1 align="center">Oi! Eu sou a Tais 👋</h1>
       <p align="center">
         🎓 <b>Bootcamp Full-Stack @GenerationBrasil</b><br>
-        🔐 <b>Backend Developer em Formação</b> | NestJS • TypeScript • JWT<br>
+        🔐 <b>Backend Developer | Node.js & NestJS </b><br>
       </p>
       <p align="center">
         <a href="https://blog-pessoal-gh04.onrender.com/" target="_blank">
@@ -22,7 +22,7 @@
 
   <tr>
     <td align="center">
-      <h2 align="center">🚀 Projetos em Destaque</h2>
+      <h2 align="center">🚀 Projetos de Alto Impacto</h2>
       <table align="center">
         <tr>
           <td align="center" width="50%">
@@ -31,7 +31,7 @@
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
               <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white" />
             </p>
-            <p>Autenticação JWT • Swagger • Deploy no Render</p>
+            <p><b>Foco:</b> Segurança e Escalabilidade. Implementação de <b>Guards de Autenticação</b> e documentação robusta via Swagger.</p>
             <p>
               <a href="https://github.com/Duartetais/Blog_pessoal">📁 Repo</a> • 
               <a href="https://blog-pessoal-gh04.onrender.com/">🌐 Live</a>
@@ -43,7 +43,7 @@
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
               <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white" />
             </p>
-            <p>DTOs • ValidationPipe • GitHub Actions</p>
+            <p><b>Foco:</b> Qualidade de Dados. Uso rigoroso de <b>DTOs e ValidationPipes</b> para garantir integridade em fluxos complexos.</p>
             <p>
               <a href="https://github.com/Duartetais/projeto_bloco_02_farmacia">📁 Repo</a>
             </p>
@@ -56,7 +56,7 @@
               <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
               <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
             </p>
-            <p>Primeiro projeto NestJS • CRUD completo</p>
+            <p><b>Foco:</b> Performance. Modelagem de banco de dados relacional otimizada para operações de CRUD em alta escala.</p>
             <p>
               <a href="https://github.com/Duartetais/Loja-de-Game">📁 Repo</a>
             </p>
@@ -74,14 +74,13 @@
 
   <tr>
     <td align="center">
-      <h2 align="center">🎓 Sobre Minha Transição</h2>
+      <h2 align="center">🎓 Transição Estratégica</h2>
       <p align="center">
-        De <b>Segurança do Trabalho</b> (gestão de riscos, normas técnicas, atenção meticulosa)<br>
-        para <b>Desenvolvimento Backend</b> (arquitetura limpa, validação rigorosa, código seguro)
+        Da <b>Segurança do Trabalho</b> trago o mindset de <b>gestão de riscos e prevenção</b>.<br>
+        No <b>Backend</b>, aplico essa precisão em arquiteturas limpas e tratamento rigoroso de exceções.
       </p>
       <p align="center">
-        <i>"Da segurança aprendi: prevenção é melhor que remédio.<br>
-        Na programação, aplico o mesmo princípio em DTOs, guards e tratamento de erros."</i>
+        <i>"Sistemas seguros começam com código preventivo. Minha missão é construir APIs onde a falha não é uma opção."</i>
       </p>
     </td>
   </tr>
@@ -90,15 +89,8 @@
 
   <tr>
     <td align="center">
-      <h2 align="center">🛠️ Skills</h2>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,mysql,postgresql,git,github,linux&perline=11" height="40px" />
-      <br><br>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+      <h2 align="center">🛠️ Tech Stack</h2>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,mysql,postgresql,mongodb,docker,git,github,linux&perline=10" height="40px" />
     </td>
   </tr>
 
@@ -106,21 +98,8 @@
 
   <tr>
     <td align="center">
-      <h2 align="center">🌐 Contato</h2>
-      <a href="https://www.linkedin.com/in/duartetais" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="40px" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:duuartetais@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" height="40px" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://blog-pessoal-gh04.onrender.com/" target="_blank" title="Meu Deploy">
-        🚀
-      </a>
-    </td>
-  </tr>
-
+      <h2 align="center">🌐 Vamos construir algo seguro?</h2>
+      <p>Estou aberta a oportunidades para atuar com sistemas escaláveis e desafios técnicos complexos.</p>
   <tr><td></td></tr>
 
   <tr>
