@@ -6,9 +6,8 @@
         🎓 <b>Bootcamp Full-Stack @GenerationBrasil</b><br>
         🔐 <b>Backend Developer | Node.js & NestJS </b><br>
       </p>
-      <p align="center">
-        <a href="https://blog-pessoal-gh04.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀%20API%20Deploy-Render-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+      <a href="mailto:duuartetais@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
         &nbsp;
         <a href="https://www.linkedin.com/in/duartetais" target="_blank">
@@ -99,11 +98,25 @@
       <h2 align="center">🌐 Vamos construir algo seguro?</h2>
       <p>Estou aberta a oportunidades para atuar com sistemas escaláveis e desafios técnicos complexos.</p>
     </td>
-  </tr>
-
-  <tr><td></td></tr>
-
-  <tr>
+  <  <p align="center">
+      <a href="https://www.linkedin.com/in/tais-bernardi/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Duartetais" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="mailto:duuartetais@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://wa.me/5511911334279" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </p>
+  </td>
+</tr>
     <td align="center">
       <h2 align="center">📊 GitHub Stats</h2>
       <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Duartetais&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
