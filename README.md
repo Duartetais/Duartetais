@@ -244,7 +244,7 @@ Formação voltada ao desenvolvimento de aplicações e à construção de solu�
 </td>
 <td width="50%" valign="top">
 
-### 📊 Ford Inter
+### 📊 Ford Enter
 
 **Bootcamp de Python & Análise de Dados**
 
