@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Tais Duarte 👩‍💻
 
@@ -20,7 +19,7 @@ Desenvolvimento de software, automação, análise de dados e infraestrutura de 
 
 ## Sobre mim
 
-Sou profissional de tecnologia com formação em Engenharia de Software e estudante de Redes de Computadores. Tenho interesse em desenvolvimento backend, Python, análise de dados e infraestrutura de TI.
+Sou profissional em transição para a área de tecnologia, estudante de Engenharia de Software e de Redes de Computadores. Tenho interesse em desenvolvimento backend, Python, análise de dados e infraestrutura de TI.
 
 Busco ampliar meus conhecimentos por meio de projetos práticos, explorando desde a construção de APIs e a organização de bancos de dados até a administração de servidores Linux, redes, monitoramento e conceitos de NOC (Network Operations Center).
 
@@ -145,7 +144,7 @@ Linux · Bash · Docker · Apache
 
 ### 🌐 Redes & Infraestrutura
 
-<img src="https://img.shields.io/badge/TCP%2FIP-2D3748?style=flat-square" alt="TCP IP"> <img src="https://img.shields.io/badge/DNS-2D3748?style=flat-square" alt="DNS"> <img src="https://img.shields.io/badge/DHCP-2D3748?style=flat-square" alt="DHCP">
+<img src="https://img.shields.io/badge/TCP%2FIP-2D3748?style=flat-square" alt="TCP/IP"> <img src="https://img.shields.io/badge/DNS-2D3748?style=flat-square" alt="DNS"> <img src="https://img.shields.io/badge/DHCP-2D3748?style=flat-square" alt="DHCP">
 
 <img src="https://img.shields.io/badge/Packet_Tracer-1676B8?style=flat-square" alt="Packet Tracer">
 
@@ -180,16 +179,16 @@ Git · GitHub · Visual Studio Code
 <div align="center">
 
 <a href="https://github.com/Duartetais">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duartetais&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Duartetais&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=34D399&icon_color=34D399&text_color=9CA3AF" alt="Estatísticas do GitHub">
 </a>
 <a href="https://github.com/Duartetais">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Duartetais&theme=transparent&hide_border=true" alt="Sequência de contribuições">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Duartetais&theme=transparent&hide_border=true&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="Sequência de contribuições">
 </a>
 
 <br>
 
 <a href="https://github.com/Duartetais">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duartetais&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duartetais&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=34D399&text_color=9CA3AF" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
@@ -218,7 +217,7 @@ Git · GitHub · Visual Studio Code
 
 **Bacharelado — Unicesumar**
 
-Formação em Engenharia de Software.
+Graduação em andamento.
 
 </td>
 <td width="50%" valign="top">
@@ -252,6 +251,22 @@ Aprendizado direcionado a Python, manipulação de dados e fundamentos de análi
 </td>
 </tr>
 </table>
+
+---
+
+## Pac-Man Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man animado percorrendo o gráfico de contribuições do GitHub">
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/pacman-contribution-graph-dark.svg" width="100%" alt="Gráfico de contribuições do Pac-Man no tema escuro">
+
+</div>
 
 ---
 
