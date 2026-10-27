@@ -194,16 +194,17 @@ Git · GitHub · Visual Studio Code
 </div>
 
 
+
 ## Atividade de desenvolvimento
 
 <div align="center">
 
-### 🐍 Modo de código: LIGADO
+### 🟢 Modo de código: LIGADO
 
 <img
-  src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/pacman-contribution-graph.svg"
   width="100%"
-  alt="Animação da atividade de contribuições no GitHub"
+  alt="Animação do Pac-Man no gráfico de contribuições do GitHub"
 >
 
 **Confirmar · Compilar · Depurar · Repetir**
@@ -213,6 +214,7 @@ Cada contribuição representa mais um passo na jornada de aprendizagem.
 </div>
 
 ## Formação
+
 
 <table width="100%">
 <tr>
