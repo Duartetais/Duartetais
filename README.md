@@ -193,17 +193,22 @@ Git · GitHub · Visual Studio Code
 
 </div>
 
+
 ## Atividade de desenvolvimento
 
 <div align="center">
 
-### 🐍 Code mode: ON
+### 🐍 Modo de código: LIGADO
 
-<img src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da atividade de contribuições no GitHub">
+<img
+  src="https://raw.githubusercontent.com/Duartetais/Duartetais/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Animação da atividade de contribuições no GitHub"
+>
 
-**Commit · Build · Debug · Repeat**
+**Confirmar · Compilar · Depurar · Repetir**
 
-<sub>Cada contribuição representa mais um passo na jornada de aprendizado.</sub>
+Cada contribuição representa mais um passo na jornada de aprendizagem.
 
 </div>
 
